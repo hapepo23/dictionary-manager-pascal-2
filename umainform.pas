@@ -82,7 +82,7 @@ end;
 
 procedure TMainForm.menuItem11Click(Sender: TObject);
 begin
-  ShowMessage('Dictionary2 Manager Version 1.0' + LineEnding +
+  ShowMessage('Dictionary Manager 2 - Version 1.0' + LineEnding +
     '(2025-11-07, ObjectPascal/Lazarus Version)');
 end;
 

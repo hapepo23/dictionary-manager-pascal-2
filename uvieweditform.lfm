@@ -3,7 +3,7 @@ object ViewEditForm: TViewEditForm
   Height = 410
   Top = 32
   Width = 750
-  Caption = 'View & Edit Dictionary2'
+  Caption = 'View & Edit - Dictionary Manager 2'
   ClientHeight = 410
   ClientWidth = 750
   Constraints.MinHeight = 400
@@ -244,7 +244,6 @@ object ViewEditForm: TViewEditForm
     0000
   }
   Position = poScreenCenter
-  LCLVersion = '4.2.0.0'
   OnClose = FormClose
   OnResize = FormResize
   OnShow = FormShow
@@ -551,7 +550,7 @@ object ViewEditForm: TViewEditForm
       Options = [goFixedVertLine, goFixedHorzLine, goVertLine, goHorzLine, goColSizing, goAlwaysShowEditor, goThumbTracking]
       ColWidths = (
         100
-        267
+        265
       )
     end
   end

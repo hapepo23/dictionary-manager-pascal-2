@@ -21,7 +21,8 @@ Screenshot Linux:
 
 The displayed data record is saved as:
 
-    Wir sollten mehr Gemüse kaufen. TAB もっと 野[や]菜[さい]を 買[か]いましょう。 TAB Motto yasai o kaimashou. TAB Beispielsatz
+    Wir sollten mehr Gemüse kaufen. TAB もっと 野[や]菜[さい]を 買[か]いましょう。 TAB
+    Motto yasai o kaimashou. TAB Beispielsatz
 
 The first line in the file is:
 

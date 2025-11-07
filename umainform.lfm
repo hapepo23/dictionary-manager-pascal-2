@@ -3,7 +3,7 @@ object MainForm: TMainForm
   Height = 300
   Top = 32
   Width = 500
-  Caption = 'Dictionary2 Manager'
+  Caption = 'Dictionary Manager 2'
   ClientHeight = 300
   ClientWidth = 500
   Constraints.MinHeight = 200
