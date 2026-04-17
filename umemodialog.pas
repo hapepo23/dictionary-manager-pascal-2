@@ -35,19 +35,18 @@ implementation
 
 procedure TMemoDialog.butOKClick(Sender: TObject);
 begin
-  MemoDialog.Visible := False;
   newText := mmText.Lines.Text;
+  MemoDialog.Close
 end;
 
 procedure TMemoDialog.butCancelClick(Sender: TObject);
 begin
-  MemoDialog.Visible := False;
   newText := oldText;
+  MemoDialog.Close
 end;
 
 procedure TMemoDialog.FormShow(Sender: TObject);
 begin
-  MemoDialog.Visible := True;
   mmText.SetFocus;
 end;
 

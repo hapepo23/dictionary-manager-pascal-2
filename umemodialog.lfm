@@ -241,6 +241,7 @@ object MemoDialog: TMemoDialog
     237D
   }
   Position = poScreenCenter
+  LCLVersion = '4.4.0.0'
   OnShow = FormShow
   object mmText: TMemo
     AnchorSideLeft.Control = Owner
